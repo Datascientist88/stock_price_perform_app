@@ -10,4 +10,4 @@ stocknews==0.9.11
 streamlit==1.17.0
 streamlit_lottie==0.0.3
 yfinance==0.2.4
-~treamlit==1.16.0
+
