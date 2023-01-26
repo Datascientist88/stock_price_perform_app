@@ -1,11 +1,7 @@
 # stock_price_perform_app
 [ACCESS TO THE APPLICATION CLick !](https://datascientist88-stock-price-perform-app-finance-ayxtp0.streamlit.app/)
 
-
-
-
-
-TIME SERIES ANALYSIS WITH PYTHON -FORECASTING STOCK PRICE  
+ PYTHON -FORECASTING STOCK PRICE  
 Introduction:
 This form of analysis uses historical data to try to capture the trends that are within the data, this type of analysis is quite prevalent in the world of finance and sale & marketing I began to think about this application a week ago to take advantage of the powerful tools Python programming Language offers along with its wide range of libraries That Can be Used To analyze enormous amount of data to gain invaluable insights after developing and deploying machine learning models and algorithms which facilitate the prediction of future trends Without being explicitly programmed to do so.
 
